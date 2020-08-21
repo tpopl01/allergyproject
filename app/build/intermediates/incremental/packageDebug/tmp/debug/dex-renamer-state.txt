@@ -1,0 +1,4 @@
+#Tue Aug 11 23:33:44 BST 2020
+base.0=/Users/Tim/Documents/project/allergyproject/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

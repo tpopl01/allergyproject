@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sign Up</string>
+
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logo">Logo</string>
+
+    <string name="password_error_msg">Password must contain at least one number, special, lower and upper case character. It must be at least six characters long.</string>
+    <string name="email_error_msg">The entered email address is not valid.</string>
+    <string name="firstname_error_msg">First name must contain characters.</string>
+    <string name="lastname_error_msg">Last name must contain characters.</string>
+
+</resources>

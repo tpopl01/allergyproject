@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle"  >
+            <corners
+                android:radius="25dp"
+                />
+            <gradient android:angle="270"
+                android:centerColor="#F02727"
+                android:endColor="#F02727"
+                android:startColor="#F02727" />
+            <stroke android:width="2dip" android:color="#707070" />
+            <!--https://stackoverflow.com/questions/2122199/how-do-i-set-the-rounded-corner-radius-of-a-color-drawable-using-xml-->
+        </shape>
+    </item>
+</selector>
